@@ -59,9 +59,7 @@
 ---
 
 ## 🌌 3D Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph.png" />
-</p>
+![3D Contribution Graph](https://github.com/devxsabhaya/GitHub-username/blob/output/graph.png)
 
 ---
 
