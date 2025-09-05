@@ -1,13 +1,16 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # हर दिन रात 12 बजे auto run होगा
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ Push की permission दी
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -15,7 +18,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: devxsabhaya
+          github_user_name: DevXSabhaya
           outputs: dist/snake.svg
 
       - name: Push Snake
