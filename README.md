@@ -54,10 +54,14 @@
 ---
 
 ### 🐍 Snake Contributions
+
 ![snake gif](https://raw.githubusercontent.com/DevXSabhaya/DevXSabhaya/output/snake.svg)
 
+
 ### 🌌 3D Contribution Graph
+
 ![3D Graph](https://raw.githubusercontent.com/DevXSabhaya/DevXSabhaya/output/graph.png)
+
 
 ---
 
