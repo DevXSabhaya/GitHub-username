@@ -59,9 +59,7 @@
 
 
 ### 🌌 3D Contribution Graph
-
-![3D Graph](https://raw.githubusercontent.com/DevXSabhaya/DevXSabhaya/output/graph.png)
-
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevXSabhaya&bg_color=0d1117&color=ffffff&line=00ffcc&point=ffffff&area=true&hide_border=true)
 
 ---
 
