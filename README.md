@@ -55,7 +55,7 @@
 
 ## 🐍 Snake Contributions  
 <p align="center">
-  <img src="https://github.com/devxsabhaya/devxsabhaya/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/devxsabhaya/devxsabhaya/blob/output/snake.svg"/>
 </p>
 
 ---
