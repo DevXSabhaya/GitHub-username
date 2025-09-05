@@ -1,14 +1,80 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
-``` :contentReference[oaicite:9]{index=9} |
-| **Contribution Snake Animation** | GitHub Action setup करे using `Platane/snk` for snake GIF effect. :contentReference[oaicite:10]{index=10} |
-| **Visitor Counter & Trophies** | badges जैसे visitor counter, trophies, followers count use करो। :contentReference[oaicite:11]{index=11} |
-| **Fun Touch** | Meme, quote या ASCII art use करो — इससे प्रोफ़ाइल का crazy flavor बढ़ जाता है। :contentReference[oaicite:12]{index=12} |
+<!-- 🚀 Crazy & Polished GitHub Profile Design -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF2CED&center=true&vCenter=true&width=600&height=70&lines=Hey+👋+I'm+Zeel+Sabhaya;Frontend+Developer+from+India;React+%7C+Next.js+%7C+GSAP;Always+Learning+New+Things!" alt="Typing SVG"/>
+</h1>
+
+<!-- Header Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:ff00ff&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
 
 ---
 
-###  अगला स्टेप:
-बताओ, तुम्हें ऊपर दिखाये गए कौन सा style सबसे ज़्यादा पसंद आया? फिर मैं उसी स्टाइल के अनुसार तुम्हारे लिए एक **ready-to-copy template** बना देता हूँ — जिसमें header, stats, snake animation, quotes वगैरह शामिल हो।
+## 💫 About Me  
+- 🔭 Working on **CRM**  
+- 🌱 Currently learning **Next.js**  
+- 💬 Ask me about **React, JavaScript, GSAP**  
+- 📫 Reach me at **5877zeelsabhaya@gmail.com**  
 
-बस बताओ—करो सही, और मैं तुम्हारी मदद पूरी जोड़-तोड़ कर दूँगा!
-::contentReference[oaicite:13]{index=13}
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:5877zeelsabhaya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚒️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,git,github,firebase,c,cpp" />
+</p>
+
+---
+
+## 🏆 Trophies & Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devxsabhaya&theme=radical&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devxsabhaya&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxsabhaya&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devxsabhaya&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🐍 Snake Contributions  
+<p align="center">
+  <img src="https://github.com/devxsabhaya/devxsabhaya/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌌 3D Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph.png" />
+</p>
+
+---
+
+## ✨ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<!-- Footer Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00f7ff&height=120&section=footer"/>
+</p>
