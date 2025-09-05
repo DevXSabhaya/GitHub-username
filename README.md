@@ -54,12 +54,12 @@
 ---
 
 ## 🐍 Snake Contributions  
-![snake gif](https://raw.githubusercontent.com/DevXSabhaya/GitHub-username/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/DevXSabhaya/DevXSabhaya/output/snake.svg)
 
 ---
 
 ## 🌌 3D Contribution Graph  
-![3D Contribution Graph](https://github.com/devxsabhaya/GitHub-username/blob/output/graph.png)
+![3D Contribution Graph](https://github.com/devxsabhaya/DevXSabhaya/blob/output/graph.png)
 
 ---
 
