@@ -1,0 +1,25 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate GitHub Contribution Graph
+        uses: ashutosh00710/github-readme-activity-graph@master
+        with:
+          username: devxsabhaya
+          config_file_path: config.json
+          output_path: dist/graph.png
+      - name: Push Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
