@@ -54,9 +54,7 @@
 ---
 
 ## 🐍 Snake Contributions  
-<p align="center">
-  <img src="https://github.com/devxsabhaya/devxsabhaya/blob/output/snake.svg"/>
-</p>
+![snake gif](https://raw.githubusercontent.com/DevXSabhaya/GitHub-username/output/snake.svg)
 
 ---
 
