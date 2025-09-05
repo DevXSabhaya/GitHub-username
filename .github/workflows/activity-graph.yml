@@ -8,14 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ जरूरी है
+
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate GitHub Contribution Graph
-        uses: ashutosh00710/github-readme-activity-graph@master
+        uses: ashutosh00710/github-readme-activity-graph@main
         with:
-          username: devxsabhaya
-          config_file_path: config.json
-          output_path: dist/graph.png
+          username: DevXSabhaya
+          theme: react-dark
+          area: true
+          hide_border: true
+          custom_title: "3D Contribution Graph"
+          output: dist/graph.png
+
       - name: Push Graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
